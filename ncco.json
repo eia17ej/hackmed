@@ -1,4 +1,7 @@
-[ { 'action' : 'talk',
-    'text' : 'Hello World'
-    }
+[
+  {
+    "action": "talk",
+    "voiceName": "Russell",
+    "text": "You are listening to a test text-to-speech call made with Nexmo Voice API"
+  }
 ]
